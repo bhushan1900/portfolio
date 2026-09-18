@@ -31,12 +31,31 @@ const Contact = () => {
     }));
   };
   
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     setIsSubmitting(true);
-    
-    // Simulate form submission
-    setTimeout(() => {
+
+    try {
+      const response = await fetch('https://formsubmit.co/ajax/bhushang120@gmail.com', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Accept: 'application/json'
+        },
+        body: JSON.stringify({
+          name: formData.name,
+          email: formData.email,
+          subject: formData.subject,
+          message: formData.message,
+          _captcha: 'false',
+          _template: 'table'
+        })
+      });
+
+      if (!response.ok) {
+        throw new Error('Message delivery failed');
+      }
+
       setIsSubmitting(false);
       setSubmitStatus('success');
       setFormData({
@@ -45,12 +64,14 @@ const Contact = () => {
         subject: '',
         message: ''
       });
-      
-      // Clear status after 5 seconds
-      setTimeout(() => {
-        setSubmitStatus(null);
-      }, 5000);
-    }, 1500);
+    } catch (error) {
+      setIsSubmitting(false);
+      setSubmitStatus('error');
+    }
+
+    setTimeout(() => {
+      setSubmitStatus(null);
+    }, 5000);
   };
 
   // Function to render the appropriate social media icon
@@ -166,6 +187,12 @@ const Contact = () => {
             {submitStatus === 'success' && (
               <div className="mb-6 bg-green-500/20 border border-green-500 text-green-500 px-4 py-3 rounded">
                 Your message has been sent successfully. I'll get back to you soon!
+              </div>
+            )}
+
+            {submitStatus === 'error' && (
+              <div className="mb-6 bg-red-500/20 border border-red-500 text-red-400 px-4 py-3 rounded">
+                We could not send your message. Please try again or email me directly.
               </div>
             )}
             
