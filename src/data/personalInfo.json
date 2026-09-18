@@ -4,7 +4,7 @@
     "greeting": "Hello!",
     "staticHeadline": "I Am",
     "roles": [
-      "Bhushan Bhavrao Gangurde",
+      "Bhushan Gangurde",
       "Machine Learning Engineer",
       "Generative AI Engineer",
       "AI Agents Engineer"
@@ -18,12 +18,12 @@
     "socialMedia": [
       {
         "name": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "url": "https://www.linkedin.com/in/bhushan-gangurde-378531214",
         "icon": "linkedin"
       },
       {
         "name": "GitHub",
-        "url": "https://github.com/",
+        "url": "https://github.com/bhushan1900",
         "icon": "github"
       }
     ]
