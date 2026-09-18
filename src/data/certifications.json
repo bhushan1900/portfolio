@@ -1,6 +1,13 @@
 {
   "certifications": [
     {
+      "title": "Data Analyst Internship Certificate",
+      "issuer": "EdEra",
+      "date": "04/2023 - 07/2023",
+      "credentialUrl": "/portfolio/images/Certificate%20of%20Intership%20Completion.pdf",
+      "description": "Certificate of internship completion for the Data Analyst Intern role at EdEra."
+    },
+    {
       "title": "Python & MySQL Certification",
       "issuer": "Om Computers Services, Pune",
       "date": "",
