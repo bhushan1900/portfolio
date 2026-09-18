@@ -7,6 +7,14 @@
       "description": "Worked on end-to-end Generative AI applications, including RAG and AI agent workflows. Contributed to model evaluation, explainability, security, and observability, while developing reliable and scalable solutions for enterprise applications.",
       "keyFeatures": [],
       "technologies": ["Generative AI", "RAG", "AI Agents", "FastAPI", "Model Evaluation", "Explainability", "Security", "Observability"]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "EdEra",
+      "period": "04/2023 - 07/2023",
+      "description": "Leveraged Python and statistical methods at EdEra to clean complex enterprise datasets, automate analytical reporting workflows, and deliver data-driven insights that improved operational efficiency and decision-making across teams.",
+      "keyFeatures": [],
+      "technologies": ["Python", "Statistics", "Data Analysis", "Analytical Reporting"]
     }
   ]
 }
