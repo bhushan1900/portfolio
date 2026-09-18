@@ -1,0 +1,69 @@
+{
+  "intro": "Machine Learning Engineer with hands-on experience in Generative AI, RAG, AI Agents, and FastAPI.",
+  "additionalInfo": "Passionate about building scalable AI applications, solving real-world problems, and continuously learning.",
+  "categories": [
+    {
+      "category": "Languages & Frameworks",
+      "skills": [
+        { "name": "Python", "proficiency": 95 },
+        { "name": "SQL", "proficiency": 90 },
+        { "name": "NumPy", "proficiency": 90 },
+        { "name": "Pandas", "proficiency": 90 },
+        { "name": "Scikit-Learn", "proficiency": 90 }
+      ]
+    },
+    {
+      "category": "Generative AI & LLMs",
+      "skills": [
+        { "name": "GPT (OpenAI)", "proficiency": 90 },
+        { "name": "LLaMA", "proficiency": 85 },
+        { "name": "Mistral", "proficiency": 85 },
+        { "name": "Claude", "proficiency": 85 },
+        { "name": "Transformers (HF)", "proficiency": 90 },
+        { "name": "Synthetic Data Generation", "proficiency": 85 },
+        { "name": "RAG Pipelines", "proficiency": 90 },
+        { "name": "AI Agents (LangChain Agents, AutoGPT)", "proficiency": 90 },
+        { "name": "vLLM", "proficiency": 80 }
+      ]
+    },
+    {
+      "category": "Cloud",
+      "skills": [
+        { "name": "Vast.ai", "proficiency": 80 },
+        { "name": "E2E", "proficiency": 75 },
+        { "name": "Azure", "proficiency": 75 }
+      ]
+    },
+    {
+      "category": "Databases",
+      "skills": [
+        { "name": "PostgreSQL", "proficiency": 85 },
+        { "name": "ChromaDB", "proficiency": 85 },
+        { "name": "Vector Databases", "proficiency": 85 }
+      ]
+    },
+    {
+      "category": "Backend",
+      "skills": [
+        { "name": "FastAPI", "proficiency": 90 },
+        { "name": "Flask", "proficiency": 80 },
+        { "name": "REST APIs", "proficiency": 90 }
+      ]
+    },
+    {
+      "category": "DevOps",
+      "skills": [
+        { "name": "Docker", "proficiency": 85 },
+        { "name": "Git", "proficiency": 90 },
+        { "name": "GitHub", "proficiency": 90 }
+      ]
+    },
+    {
+      "category": "Data Analytics",
+      "skills": [
+        { "name": "Power BI", "proficiency": 80 },
+        { "name": "Tableau", "proficiency": 80 }
+      ]
+    }
+  ]
+}

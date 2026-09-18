@@ -1,0 +1,34 @@
+{
+  "certifications": [
+    {
+      "title": "Python & MySQL Certification",
+      "issuer": "Om Computers Services, Pune",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Data Science Training",
+      "issuer": "NullClass",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Java Full Stack Development",
+      "issuer": "Wipro TalentNext",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Employability Skill Development",
+      "issuer": "Zensar",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Employability Skills Training Programme",
+      "issuer": "Mahindra Pride Classroom",
+      "date": "",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bhushan Bhavrao Gangurde",
+    "title": "Machine Learning Engineer",
+    "greeting": "Hello!",
+    "staticHeadline": "I Am",
+    "roles": [
+      "Bhushan Bhavrao Gangurde",
+      "Machine Learning Engineer",
+      "Generative AI Engineer",
+      "AI Agents Engineer"
+    ],
+    "description": "Machine Learning Engineer with hands-on experience in Generative AI, RAG, AI Agents, and FastAPI. Passionate about building scalable AI applications, solving real-world problems, and contributing to innovative AI and data-driven solutions while continuously learning and growing.",
+    "location": "India",
+    "email": "bhushang120@gmail.com",
+    "phone": "+91-8550937035",
+    "profileImage": "/my_portfolio/images/profile1.png",
+    "resumeLink": "/my_portfolio/images/Sumit_Resume.pdf",
+    "socialMedia": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "icon": "linkedin"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/",
+        "icon": "github"
+      }
+    ]
+  }

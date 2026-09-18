@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "title": "Enterprise AI Evaluation & Security Platform",
+      "category": "Gen-AI",
+      "image": "/my_portfolio/images/Rag.png",
+      "description": "Designed a platform to evaluate and test LLM, RAG, and AI agent applications. Contributed to model evaluation, explainability, security testing, and monitoring while improving the reliability of enterprise AI solutions.",
+      "keyFeatures": [],
+      "technologies": ["FastAPI", "LangGraph", "WebSocket", "Docker"],
+      "demoLink": "#",
+      "codeLink": "#"
+    },
+    {
+      "title": "Autonomous Document Generation System",
+      "category": "Gen-AI",
+      "image": "/my_portfolio/images/mdl_chatbot.png",
+      "description": "Developed a document automation system that analyzes user requests, creates execution plans, and generates structured reports. Integrated Python, FastAPI, Gemini, and python-docx for end-to-end document generation and export.",
+      "keyFeatures": [],
+      "technologies": ["FastAPI", "Pydantic", "Multi-Agent Architecture", "Python", "Gemini", "python-docx"],
+      "demoLink": "#",
+      "codeLink": "#"
+    },
+    {
+      "title": "Multi Document Chatbot",
+      "category": "Gen-AI",
+      "image": "/my_portfolio/images/health.png",
+      "description": "Developed a multi-document chatbot supporting PDF, DOCX, TXT, and Markdown files. Built the backend with FastAPI, implemented document retrieval using LangChain, and integrated multiple language models for question answering. Designed the user interface with Streamlit and Gradio.",
+      "keyFeatures": [],
+      "technologies": ["FastAPI", "LangChain", "Gradio", "Streamlit", "PDF", "DOCX", "TXT", "Markdown"],
+      "demoLink": "#",
+      "codeLink": "#"
+    }
+  ],
+  "filters": [
+    { "name": "All", "value": "all" },
+    { "name": "Machine Learning", "value": "machine-learning" },
+    { "name": "Gen-AI", "value": "Gen-AI" },
+    { "name": "NLP", "value": "nlp" },
+    { "name": "Computer Vision", "value": "computer-vision" },
+    { "name": "Web Development", "value": "web-development" },
+    { "name": "Web Application", "value": "web-application" }
+  ]
+}
