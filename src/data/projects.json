@@ -5,7 +5,14 @@
       "category": "Gen-AI",
       "image": "/portfolio/images/enterprise-ai-evaluation.png",
       "description": "Designed a platform to evaluate and test LLM, RAG, and AI agent applications. Contributed to model evaluation, explainability, security testing, and monitoring while improving the reliability of enterprise AI solutions.",
-      "keyFeatures": [],
+      "keyFeatures": [
+        "LLM & RAG Evaluation — Evaluate response quality, relevance, faithfulness, and context quality.",
+        "AI Agent Evaluation — Test and evaluate AI-agent workflows and responses.",
+        "Security & Vulnerability Testing — Test for jailbreaks, prompt injection, multi-prompt attacks, and other vulnerabilities.",
+        "Hallucination Detection — Identify unsupported or hallucinated responses.",
+        "Explainability & Evaluation Traces — Track retrieval and evaluation results for analysis.",
+        "Real-Time Monitoring — Monitor evaluation results, security tests, and model performance."
+      ],
       "technologies": ["FastAPI", "LangGraph", "WebSocket", "Docker"],
       "demoLink": "#",
       "codeLink": "#"
@@ -15,7 +22,14 @@
       "category": "Gen-AI",
       "image": "/portfolio/images/autonomous-document-generation.png",
       "description": "Developed a document automation system that analyzes user requests, creates execution plans, and generates structured reports. Integrated Python, FastAPI, Gemini, and python-docx for end-to-end document generation and export.",
-      "keyFeatures": [],
+      "keyFeatures": [
+        "Natural Language Request Analysis — Understand user requirements and convert them into actionable tasks.",
+        "Automated Execution Planning — Create structured execution plans based on user requests.",
+        "Multi-Agent Workflow — Use specialized agents for planning, processing, and document generation.",
+        "Structured Document Generation — Automatically generate well-formatted reports and documents.",
+        "Multiple Output Formats — Generate and export documents using python-docx.",
+        "End-to-End Document Automation — Handle the workflow from user request to planning, execution, and final document."
+      ],
       "technologies": ["FastAPI", "Pydantic", "Multi-Agent Architecture", "Python", "Gemini", "python-docx"],
       "demoLink": "#",
       "codeLink": "#"
@@ -25,7 +39,14 @@
       "category": "Gen-AI",
       "image": "/portfolio/images/multi-document-chatbot.png",
       "description": "Developed a multi-document chatbot supporting PDF, DOCX, TXT, and Markdown files. Built the backend with FastAPI, implemented document retrieval using LangChain, and integrated multiple language models for question answering. Designed the user interface with Streamlit and Gradio.",
-      "keyFeatures": [],
+      "keyFeatures": [
+        "Multi-Document Support — Upload and interact with PDF, DOCX, TXT, and Markdown files.",
+        "LangChain-Based Retrieval — Retrieve relevant information from uploaded documents.",
+        "Multi-Document Question Answering — Ask questions across multiple documents in a single conversation.",
+        "Multilingual LLM Support — Support multiple language models for question answering.",
+        "Context-Aware Responses — Generate answers based on retrieved document context.",
+        "Interactive Chat Interface — Provide a user-friendly interface using Streamlit and Gradio."
+      ],
       "technologies": ["FastAPI", "LangChain", "Gradio", "Streamlit", "PDF", "DOCX", "TXT", "Markdown"],
       "demoLink": "#",
       "codeLink": "#"
