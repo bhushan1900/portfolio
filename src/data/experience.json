@@ -5,7 +5,15 @@
       "company": "Testaing",
       "period": "08/2024 - Present",
       "description": "Worked on end-to-end Generative AI applications, including RAG and AI agent workflows. Contributed to model evaluation, explainability, security, and observability, while developing reliable and scalable solutions for enterprise applications.",
-      "keyFeatures": [],
+      "keyFeatures": [
+        "Generative AI Applications — End-to-end AI solutions using LLMs and Generative AI.",
+        "RAG Systems — Retrieval-augmented generation pipelines for enterprise applications.",
+        "AI Agent Workflows — Agent-based workflows for automated AI tasks.",
+        "LLM & Model Evaluation — Evaluation of model and response quality.",
+        "AI Explainability — Analysis and explainability of AI model outputs.",
+        "AI Security & Observability — Security testing, monitoring, and observability.",
+        "Scalable AI Solutions — Reliable and scalable AI services for enterprise applications."
+      ],
       "technologies": ["Generative AI", "RAG", "AI Agents", "FastAPI", "Model Evaluation", "Explainability", "Security", "Observability"]
     },
     {
