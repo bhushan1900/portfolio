@@ -29,6 +29,17 @@ const Education = () => {
               <h3 className="text-xl font-semibold mb-2">{item.degree}</h3>
               <h4 className="text-lg text-light-gray mb-4">{item.institution}</h4>
               <p className="text-light-gray mb-5">{item.description}</p>
+
+              {item.credentialUrl && (
+                <a
+                  href={item.credentialUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block mt-2 px-4 py-2 bg-secondary text-primary rounded-lg text-sm font-semibold hover:bg-secondary/90 transition-colors duration-200"
+                >
+                  View Certificate →
+                </a>
+              )}
               
               {item.courses && (
                 <div className="mt-4">

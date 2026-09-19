@@ -4,7 +4,7 @@
 
 This is a modern, responsive **React single-page application (SPA)** portfolio website showcasing ML engineering expertise. The site is deployed on GitHub Pages and uses a **JSON-first content architecture** to enable non-developer content updates.
 
-**Live Site**: https://sumitdhakad0.github.io/my_portfolio
+**Live Site**: https://bhushan1900.github.io/portfolio/
 
 ## Quick Start
 

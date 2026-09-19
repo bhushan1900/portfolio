@@ -28,7 +28,18 @@ const Achievements = () => {
                 <span className="text-secondary font-semibold">{achievement.year}</span>
               </div>
               <h4 className="text-base text-light-gray mb-4 italic">{achievement.organization}</h4>
-              <p className="text-light-gray">{achievement.description}</p>
+              <p className="text-light-gray mb-4">{achievement.description}</p>
+
+              {achievement.credentialUrl && (
+                <a
+                  href={achievement.credentialUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block px-4 py-2 bg-secondary text-primary rounded-lg text-sm font-semibold hover:bg-secondary/90 transition-colors duration-200"
+                >
+                  View Achievement →
+                </a>
+              )}
             </div>
           ))}
         </div>

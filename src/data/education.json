@@ -1,16 +1,18 @@
 {
   "education": [
     {
-      "degree": "Master of Science (M.Sc.) in Statistics",
+      "degree": "MSc in Statistics",
       "institution": "MIT - World Peace University",
       "period": "08/2021 - 05/2023",
-      "description": "CGPA: 8.88 | Pune, India"
+      "description": "CGPA: 8.88 | Pune, India",
+      "credentialUrl": "/portfolio/images/PG_Certificate.pdf"
     },
     {
-      "degree": "Bachelor of Science (B.Sc.) in Statistics",
+      "degree": "BSc in Statistics",
       "institution": "Pratap College",
       "period": "2018 - 2021",
-      "description": "CGPA: 7.46 | Amalner, India"
+      "description": "CGPA: 7.46 | Amalner, India",
+      "credentialUrl": "/portfolio/images/Graduation_Certificate.pdf"
     }
   ]
 }

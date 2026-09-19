@@ -5,7 +5,7 @@ A modern, responsive portfolio website showcasing ML engineering and data scienc
 
 ## Live Demo
 
-[View the live site](https://sumitdhakad0.github.io/my_portfolio/)
+[View the live site](https://bhushan1900.github.io/portfolio/)
 
 ## Features
 
@@ -35,7 +35,7 @@ A modern, responsive portfolio website showcasing ML engineering and data scienc
 
 1. Clone the repository
 ```bash
-git clone git@github.com:SUMITDHAKAD0/my_portfolio.git
+git clone git@github.com:bhushan1900/portfolio.git
 cd ml-engineer-portfolio
 ```
 

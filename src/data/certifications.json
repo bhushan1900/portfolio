@@ -1,40 +1,39 @@
 {
   "certifications": [
     {
-      "title": "Data Analyst Internship Certificate",
-      "issuer": "EdEra",
-      "date": "04/2023 - 07/2023",
-      "credentialUrl": "/portfolio/images/Certificate%20of%20Intership%20Completion.pdf",
-      "description": "Certificate of internship completion for the Data Analyst Intern role at EdEra."
-    },
-    {
-      "title": "Python & MySQL Certification",
-      "issuer": "Om Computers Services, Pune",
+      "title": "Python Programming",
+      "issuer": "DeveLearn",
       "date": "",
+      "credentialUrl": "/portfolio/images/python_programming_certificate.pdf",
       "description": ""
     },
     {
-      "title": "Data Science Training",
-      "issuer": "NullClass",
+      "title": "Business Analytics Certification",
+      "issuer": "upGrad Campus",
       "date": "",
+      "credentialId": "482199b5-5f78-413c-a57b-64a1ad2a86b4",
+      "credentialUrl": "/portfolio/images/482199b5-5f78-413c-a57b-64a1ad2a86b4.png",
       "description": ""
     },
     {
-      "title": "Java Full Stack Development",
-      "issuer": "Wipro TalentNext",
+      "title": "C C++ Programming",
+      "issuer": "Center for Advanced Technologies, Pune",
       "date": "",
+      "credentialUrl": "/portfolio/images/C%26Cpp_Certificate.pdf",
       "description": ""
     },
     {
-      "title": "Employability Skill Development",
-      "issuer": "Zensar",
+      "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+      "issuer": "Udemy",
       "date": "",
+      "credentialUrl": "/portfolio/images/Machine%20Learning%20A-Z%E2%84%A2%3A%20Hands-On%20Python%20%26%20R%20In%20Data%20Science.jpg",
       "description": ""
     },
     {
-      "title": "Employability Skills Training Programme",
-      "issuer": "Mahindra Pride Classroom",
+      "title": "National Science Day E-Quiz",
+      "issuer": "Pratap College, Amalner",
       "date": "",
+      "credentialUrl": "/portfolio/images/National%20Science%20Day%20E-Quiz.pdf",
       "description": ""
     }
   ]
